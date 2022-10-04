@@ -47,5 +47,13 @@ A felhasználó bármilyen adat nélkül írhat a kollégáinknak, és 3-9 perce
 
 ## Riportok
 
+- Mi az oldal ötlete? Milyen funkciójú, alapkoncepciójú olalt szeretnénk?
+- Egy kakukktojás oldalt szeretnénk, képekkel, szöveggel ellátva, ami ellenőrzi, hogy helyesen választottunk-e kakukktojást, frissítésre új feladványt mutat véletlenszerűen és egyszerre csak egy kakukktojás legyen az oldalon.
+
+- Milyen felületet szeretnénk az oldalunknak? Regisztráció, bejelentkezés? Oldal dizájnja?
+- Az oldal csak bejelentkezés után legyen elérhető. Legyen átlátható, nem túl bonyolult dizájnja, amin könnyű navigánlni.
+
+- Hány kakukktojás legyen, ami véletlenszerűen jelenik meg? Milyen témájú kakukktojások legyenek?
+- Legalább 10 db kakukktojás, mindegyik más más témában. Legyenek állatokkal, növényekkel, játékokkal és számítógépekkel kapcsolatosak is, de ezek csak ötletek, szinte bármi lehet, ami nem megoldhatatlan.
 
 ## Fogalomtár 
