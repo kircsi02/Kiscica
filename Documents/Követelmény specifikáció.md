@@ -18,6 +18,11 @@ A fenti információk alapján legalább 5 percre, ideálisan tovább lenne szü
 
 ## Rendszerre vonatkozó törvények
 
+## Jelenlegi üzleti folyamatok modellje
+Jelenleg a felhassználók amikor igénybe veszik a tech support szolgáltatását, nem várják meg az alkalmazottaink válaszát.
+Amennyiben a felhasználó megvárja amíg egy kollégánk válaszol, a visszejelzék alapján elégedett a felhasználó.
+A tech support oldalunkon nincs mit csinálnia a felhasználónak, ami megnövelné a hajlandóságot a várakozásra.
+A felhasználó bármilyen adat nélkül írhat a kollégáinknak, és 3-9 percen belül folyamatos beszélgetést tud folytatni amíg a probléma vagy kérdés megoldásra nem kerül.
 
 
 ## Igényelt üzleti folyamatok modellje
