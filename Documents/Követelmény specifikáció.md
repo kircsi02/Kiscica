@@ -14,7 +14,14 @@ A fenti információk alapján legalább 5 percre, ideálisan tovább lenne szü
 
 ## Funkcionális követelmény
 
+A program adatbázisban tárolja a kakukktojásokat, kategória szerint elmentve. A felülethez csak belépés után lehet hozzáférni, amihez szükséges regisztrációkor megadni egy felhasználónevet, egy e-mail címet és egy jelszót, amik szintén adatbázisban lesznek eltárolva.
+A kezelő felület webes kialakítású, amellyel kakukktojásokat tud generálni a felhasználó, majd ellenőrzés után újra és újra lefrissíteni azt, amivel újabb megolható kakukktojás válik elérhetővé, mindig más és más kakukktojásos feladattal előállva.
 
+Menüpontok az oldalon:
+- Kakukktojás
+- Kijelentkezés
+
+A kijelentkezés menüpontra kattintva a felhasználó kijelentkezik az oldalról, és csak újabb belépést követően tud hozzáférni az oldal tartalmához.
 
 ## Rendszerre vonatkozó törvények
 
