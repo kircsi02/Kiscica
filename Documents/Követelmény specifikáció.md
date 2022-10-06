@@ -54,7 +54,7 @@ A felhasználó bármilyen adat nélkül írhat a kollégáinknak, és 3-9 perce
 
 ## Riportok
 
-- Mi az oldal ötlete? Milyen funkciójú, alapkoncepciójú olalt szeretnénk?
+- Mi az oldal ötlete? Milyen funkciójú, alapkoncepciójú oldalt szeretnénk?
 - Egy kakukktojás oldalt szeretnénk, képekkel, szöveggel ellátva, ami ellenőrzi, hogy helyesen választottunk-e kakukktojást, frissítésre új feladványt mutat véletlenszerűen és egyszerre csak egy kakukktojás legyen az oldalon.
 
 - Milyen felületet szeretnénk az oldalunknak? Regisztráció, bejelentkezés? Oldal dizájnja?
@@ -64,3 +64,4 @@ A felhasználó bármilyen adat nélkül írhat a kollégáinknak, és 3-9 perce
 - Legalább 10 db kakukktojás, mindegyik más más témában. Legyenek állatokkal, növényekkel, játékokkal és számítógépekkel kapcsolatosak is, de ezek csak ötletek, szinte bármi lehet, ami nem megoldhatatlan.
 
 ## Fogalomtár 
+
