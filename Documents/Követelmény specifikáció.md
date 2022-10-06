@@ -65,3 +65,4 @@ A felhasználó bármilyen adat nélkül írhat a kollégáinknak, és 3-9 perce
 
 ## Fogalomtár 
 
+tech support = technikai segítségnyújtást biztosítanak a felhasználók számára
