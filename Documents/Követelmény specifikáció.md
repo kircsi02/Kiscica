@@ -42,6 +42,7 @@ Az Alkalmazáshoz kapcsolódó adatbázis módosítása kizárólag az Üzemelte
 Ha a Felhasználó az Alkalmazást használat közben bezárja, vagy ha a kapcsolat (bármely okból) megszakad a kiszolgáló webhelyével, abban az esetben az adatok elvesztéséért a Tulajdonos semmilyen felelősséget nem vállal. A Tulajdonos és az Üzemeltető a rendelkezésére álló eszközökkel biztosítja, hogy az Alkalmazás használata technikai szempontból biztonságosnak minősüljön. Az Alkalmazáshoz való csatlakozás miatt bekövetkező károkért, az internetes hálózat esetleges üzemkimaradásából, az elérési út hibájából, bármely nem várt technikai hibából eredő adatvesztésért, vírusból, vagy más károkért a Tulajdonos nem felelős. A Felhasználóknak minden esetben fel kell mérniük, hogy rendelkeznek-e az Alkalmazás használatához szükséges ismeretekkel, technikai követelményekkel és teljesítményekkel.
 
 ## Jelenlegi üzleti folyamatok modellje
+
 Jelenleg a felhassználók amikor igénybe veszik a tech support szolgáltatását, nem várják meg az alkalmazottaink válaszát.
 Amennyiben a felhasználó megvárja amíg egy kollégánk válaszol, a visszejelzék alapján elégedett a felhasználó.
 A tech support oldalunkon nincs mit csinálnia a felhasználónak, ami megnövelné a hajlandóságot a várakozásra.
