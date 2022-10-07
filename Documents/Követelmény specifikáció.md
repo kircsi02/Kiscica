@@ -2,8 +2,12 @@
 
 ## Áttekintés
 
+Szeretnénk egy olyan weblapot, ami el van látva regisztrációs, és bejelentkező felülettel. Az oldal tartalma csak bejelentkezés után legyen elérhető.
+Az oldal témájának azt szeretnénk hogy legyen képekkel és szöveggel ellátott kakukktojás keresés, ami frissítés, vagy kakukktojás ellenőrzés hatására véletlenszerűen új kakukktojás keresésre ad lehetőséget.
+Legalább 10 féle kakukktojás keresést szeretnénk látni az oldalon, 5 választató lehetőséggel / keresés.
 
 ## Jelenlegi helyzet
+
 Jelenleg a weboldalunk tech support oldalának legnagyobb problémája hogy a felhasználók megunják a várakozást az alkalmazottaink válaszára.
 Mivel jelenleg nem áll módunkban csökkenteni az alkalmazottaink reakció idejét csökkenteni, le kellene foglalni a felhasználókat.
 A jelenleg rendelkezésünkre álló adatok alapján a felhasználók maximum 1 percet hajlandóak várni.
