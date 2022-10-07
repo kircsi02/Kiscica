@@ -16,6 +16,12 @@ A fenti információk alapján legalább 5 percre, ideálisan tovább lenne szü
 
 ## Vágyálom Rendszer
 
+Vállalkozásunk bővítése érdekében szeretnénk egy kis szórakozást vinni a már meglévő weblapunkba, és egyúttal regisztrációs rendszert is.
+Célunk, hogy az ügyfeleiket szórakoztassuk amíg várnak esetleg a supportunk válaszára. A weboldal könnyen üzemeltethető legyen. Elvárt a platformfüggetlenség, pl. mysql+php. Az online megjenés lehetőleg mobil telefonon, tableten is működjön, reszponzív felülettel.
+Azt szeretnénk ha a felhasználó nem férne hozzá semmihez, amíg nem regisztrál, és nem lép be.
+Ezen felül egy oldalra csak egy sor kakuktojást szeretnék, ami mindig változik ha frissítek, vagy ellenőriztetem hogy jó kakukktojást válaszottam-e.
+Az oldal navigációs sávjában lévő, kijelenzkezés, és egyéb funkciónak működnie kell.
+
 ## Funkcionális követelmény
 
 A program adatbázisban tárolja a kakukktojásokat, kategória szerint elmentve. A felülethez csak belépés után lehet hozzáférni, amihez szükséges regisztrációkor megadni egy felhasználónevet, egy e-mail címet és egy jelszót, amik szintén adatbázisban lesznek eltárolva.
