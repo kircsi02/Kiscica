@@ -57,6 +57,14 @@ A felhasználó bármilyen adat nélkül írhat a kollégáinknak, és 3-9 perce
 
 ## Követelménylista
 
+Követelménylista
+K01 Könnyen üzemeltethető rendszer
+K02 Reszponzív dizájn
+K03 Bejelentkezés, regisztráció, kijelentkezés
+K04 Kakukk tojás keresés, képekkel, szöveggel.
+K05 kakukk tojás eltalálásának ellenőrzése, új kakukk tojás adás, véletlenszerűen.
+K06 navigációs menü
+
 ## Riportok
 
 - Mi az oldal ötlete? Milyen funkciójú, alapkoncepciójú oldalt szeretnénk?
