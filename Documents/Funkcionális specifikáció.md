@@ -41,7 +41,9 @@ K06 Navigációs menü, bejelentkezés, regisztráció, kijelentkezés, kakukkto
 
 ## Forgatókönyv
 
-
+A felhasználó megnyitja az oldalt, majd regisztrál. Regisztrációkor megadja a rendszernek az e-mail címét, a felhasználónevét és a jelszavát, amivel később azonosítani kívánja magát.
+Ezek után átlép a bejelentkező oldalra, ahol a felhasználó be tud jelentkezni, onnan pedig automatikusan a főoldalra kerül. A főoldalról tud a navigációs menün belül választani, hogy mit is szeretne az oldalon csinálni.
+Ha valami problémája van, akkor tud hibajelentést küldeni, vagy bármilyen, az oldallal kapcsolatos kérdést feltenni, amíg pedig várja a választ, átlép a kakukktojás menüpontra. Az oldalon feldob egy véletlenszerű feladványt, amit unalmában valószínűleg megold a felhasználó, majd ellenőrzés után megmondja az oldal, hogy jól választott-e. Ha továbbra sem reagáltak a kollégák, és a felhasználó unatkozik, akkor lefrissíti az oldalt, ami újabb kakukktojást dob fel, amit újból meg lehet oldani, majd leellenőrzi, és ezt folytatja, amíg csak akarja, vagy nem kap választ.
 
 ## Fogalomtár
 
