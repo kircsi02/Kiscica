@@ -60,6 +60,10 @@ A felhasználó bármilyen adat nélkül írhat a kollégáinknak, és 3-9 perce
 
 
 ## Igényelt üzleti folyamatok modellje
+A felhasználónak regisztrálni kell, és bejelentkezni, hogy el tudja kezdeni a segítség kérését.
+A felhasználók üzenetei ezután visszanézhető lenne a kollégáinknak, több információt nyújtva a kollégáinknak.
+Ezzel biztosítva a későbbi segítség nyújtás további felgyorítását, és kényelmességét.
+Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár kakukk tojás feladattal.
 
 ## Követelménylista
 
