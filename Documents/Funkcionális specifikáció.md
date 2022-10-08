@@ -16,7 +16,12 @@ A fenti információk alapján legalább 5 percre, ideálisan tovább lenne szü
 
 ## Követelménylista
 
-
+K01 Könnyen üzemeltethető rendszer.
+K02 Reszponzív, könnyen átlátható, stílusos dizájn.
+K03 Bejelentkezés, regisztráció, kijelentkezés.
+K04 Kakukktojás keresés, képekkel, szöveggel, rendezve.
+K05 Kakukktojás eltalálásának ellenőrzése, új kakukktojás adás, véletlenszerűen, lehetőleg ismétlés nélkül.
+K06 Navigációs menü, bejelentkezés, regisztráció, kijelentkezés, kakukktojás fülekkel, mindent az adott oldalhoz igazítva (A bejelentkezés oldalon ne legyen Bejelentkezés fül a navigációs sávban!)
 
 ## Jelenlegi üzleti folyamatok modellje
 
