@@ -53,7 +53,24 @@ A rendszert a felhasználó egy webes felületen érheti majd el, aminek az elk�
 
 ## Tesztterv
 
+A tesztelések célja a rendszer és a komponensei funkcionalitásának teljes vizsgálata, ellenőrzése, a rendszer által megvalósított üzleti szolgáltatások verifikálása.
 
+Unit és Alfa teszt:
+
+- Elsődleges célja az eddig meglévő funkciók különböző böngészőkkel való kompatibilitásának tesztelése folyamatosan, még a fejlesztés időtartama alatt. Ezt a tesztet a fejlesztők végzik, és az eljárás akkor sikeres, ha a különböző funkciók megfelelően működnek a különböző böngészőkben és operációs rendszereken. A teszt időtartama kb. egy hét.
+
+Beta teszt:
+
+- Ennek a tesztnek elsődleges célja a tesztelő felhasználók visszajelzései alapján a probléma vagy hiba kiküszöbölése. Ha hibát találnak a tesztelő felhasználók, a fejlesztők feladata a Beta teszt időszakában a lehető leghamarabb kijavítani azt. Eredetileh kb egy hét jut erre a tesztelési formára is, de ha túl sok hiba merül fel a teszt közben, akkor elhúzódhat plusz egy héttel. A tesztet nem a fejlesztők végzik, ettől függetlenül ki kell próbálni a programot lehetőség szerint Windows-on, Linux-on és MacOS-en egyaránt, valamint ezeken belül a lehető legtöbb böngészőben is, mint például Microsoft Edge-ben, Google Chrome-ban, Mozilla Firefox-ban, Safari-ban, illetve Opera-ban.
+
+Tesztelendő funkciók:
+
+Backend:
+
+- Tudnia kell csatlakozni webes klienshez, mind Windows-on, Linux-on, MacOS-en és Android-on is.
+- Képesnek kell lennie kiszolgálni egyszerre több klienst is.
+- Tudnia kell feltölteni és lekérdezni az adatbázisból a szükséges adatokat.
+- Minden felületen elérhető funkciókat is tudnia kell biztosítani a felhasználóknak.
 
 ## Telepítési terv
 
