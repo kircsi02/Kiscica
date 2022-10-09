@@ -33,7 +33,11 @@ Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár 
 
 ## Absztrakt domain modell
 
+A rendszert a felhasználó egy webes felületen érheti majd el, aminek az elkészítését PHP nyelven tervezzük. A felület lehetővé teszi, hogy a felhasználó egy felhasználónév és egy jelszó megadásával bejelentkezzen, majd a menüpontok segítségével eldöntheti, hogy pontosan mit is szeretne tenni az oldalon:
 
+- adhat le hibajelentést
+- játszhat kakukktojást
+- kijelentkezhet
 
 ## Architekturális terv
 
