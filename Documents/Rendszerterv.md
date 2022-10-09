@@ -41,7 +41,7 @@ Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár 
 
 ## Adatbázis terv
 
-
+![rendszerterv_Adatbázisterv](https://user-images.githubusercontent.com/113984906/194764642-fbff4078-8bc5-47c9-94f5-bb19e0229a90.jpg)
 
 ## Implementációs terv
 

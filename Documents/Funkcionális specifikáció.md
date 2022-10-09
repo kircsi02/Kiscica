@@ -33,7 +33,7 @@ K06 Navigációs menü, bejelentkezés, regisztráció, kijelentkezés, kakukkto
 
 ## Használati esetek
 
-C:\Users\kiruc\Downloads\School\2022_23\1. félév\AFP1\Kiscica\Documents\Kepek\funkspec_Használati_esetek.jpg
+![funkspec_Használati_esetek](https://user-images.githubusercontent.com/113984906/194763933-94c18151-d1f6-4461-944a-606404b4a843.jpg)
 
 ## Képernyő tervek
 
