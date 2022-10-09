@@ -90,3 +90,6 @@ Karbantartás folyamata:
 - Preventive Maintenance: Olyan problémák elhárítása, kijavítása, amelyek még nem tűnnek fontosnak, de később komoly problémákat okozhatnak.
 
 ## Fogalomtár
+
+database = adatbázis
+user = felhasználó
