@@ -6,7 +6,21 @@
 
 ## Projektterv
 
+Projektszerepkörök és felelősségeik:
 
+- Jedlóczki László: fejlesztő, adminisztrátor
+- Tóth Kíra Zsófia: adminisztrátor, fejlesztő
+- Sánta András Attila: fejlesztő, adminisztrátor
+
+Ütemterv:
+| Funkció / Story | Feladat / Task | Becslés | Eltelt idő | Hátralévő idő |
+| --- | --- | --- | --- | --- |
+| Követelmény specifikáció |  | 12 | 12 | 0 |
+| Funkcionális specifikáció |  | 12 | 12 | 0 |
+| Rendszerterv |  | 16 | 12 | 4 |
+| Adattárolás, Adatbázis | Adatmodell megtervezése, Adatbázis megvalósítása | 6 | 4 | 2 |
+| Login felület | Logó készítése | 8 | 4 | 4 |
+| Crud műveletek |  | 8 | 4 | 4 |
 
 ## Üzleti folyamatok modellje
 
