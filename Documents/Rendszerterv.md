@@ -107,7 +107,7 @@ Eszközök, amiket a fejlesztéshez használunk:
 
 ## Telepítési terv
 
-
+A webes alkalmazásra egyszerűen, egy ajánlott böngésző letöltésével (Firefox, Google Chrome, Safari, Microsoft Edge, Opera) és a weboldalunkat felkeresve tudnak a felhasználók majd felcsatlakozni internet hozzáférése mellett, íg külön szoftver vagy letöltés nem szükséges hozzá, csak egy ajánlott böngészőt kell telepíteni.
 
 ## Karbantartási terv
 
