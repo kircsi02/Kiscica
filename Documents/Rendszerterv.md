@@ -6,7 +6,21 @@
 
 ## Projektterv
 
+Projektszerepkörök és felelősségeik:
 
+- Jedlóczki László: fejlesztő, adminisztrátor
+- Tóth Kíra Zsófia: adminisztrátor, fejlesztő
+- Sánta András Attila: fejlesztő, adminisztrátor
+
+Ütemterv:
+| Funkció / Story | Feladat / Task | Becslés | Eltelt idő | Hátralévő idő |
+| --- | --- | --- | --- | --- |
+| Követelmény specifikáció |  | 12 | 12 | 0 |
+| Funkcionális specifikáció |  | 12 | 12 | 0 |
+| Rendszerterv |  | 16 | 12 | 4 |
+| Adattárolás, Adatbázis | Adatmodell megtervezése, Adatbázis megvalósítása | 6 | 4 | 2 |
+| Login felület | Logó készítése | 8 | 4 | 4 |
+| Crud műveletek |  | 8 | 4 | 4 |
 
 ## Üzleti folyamatok modellje
 
@@ -21,7 +35,38 @@ Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár 
 
 ## Követelmények
 
+Funkcionális követelmények:
 
+A program adatbázisban tárolja a kakukktojásokat, kategória szerint elmentve. A felülethez csak belépés után lehet hozzáférni, amihez szükséges regisztrációkor megadni egy felhasználónevet, egy e-mail címet és egy jelszót, amik szintén adatbázisban lesznek eltárolva.
+A kezelő felület webes kialakítású, amellyel kakukktojásokat tud generálni a felhasználó, majd ellenőrzés után újra és újra lefrissíteni azt, amivel újabb megolható kakukktojás válik elérhetővé, mindig más és más kakukktojásos feladattal előállva.
+
+Menüpontok az oldalon:
+
+- Kakukktojás
+- Kijelentkezés
+
+A kijelentkezés menüpontra kattintva a felhasználó kijelentkezik az oldalról, és csak újabb belépést követően tud hozzáférni az oldal tartalmához.
+
+Nem funkcionális követelmények:
+
+- gyors betöltési sebesség
+- könnyen átlátható, letisztult és felhasználóbarát felület
+- optimalizált működés
+
+Törvényi előírások, szabványok:
+
+- GDPR-nak való megfelelés
+- Általános információk
+- Szellemi tulajdon
+- Használat
+- Felelősségi szabályok
+- Technikai követelmények
+- Garancia és kártérítés
+- mmxiii. évi V. törvény
+- Európai Parlament és Tanács 2016. április 27-i (EU) 2016/679 Rendelete
+- mmxi. évi CXII. törvény
+- a szerzői jogról szóló 1999. évi LXXVI. törvény
+- mmi. évi CVIII. törvény
 
 ## Funkcionális terv
 
@@ -29,7 +74,16 @@ Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár 
 
 ## Fizikai környezet
 
+Az alkalmazás Android és webes platformra készül. Elsősorban böngészőben lehet megnyitni, Mozilla, Safari, Chrome és Opera böngészőkben működőképes. Nincsenek sem megvásárolt komponenseink, sem alkalmazáson belüli mikrotranzakciók.
 
+Eszközök, amiket a fejlesztéshez használunk:
+
+- Visual Studio Code
+- Notepad
+- GitKraken
+- GitHub
+- Trello
+- Apache
 
 ## Absztrakt domain modell
 
@@ -74,7 +128,7 @@ Backend:
 
 ## Telepítési terv
 
-
+A webes alkalmazásra egyszerűen, egy ajánlott böngésző letöltésével (Firefox, Google Chrome, Safari, Microsoft Edge, Opera) és a weboldalunkat felkeresve tudnak a felhasználók majd felcsatlakozni internet hozzáférése mellett, íg külön szoftver vagy letöltés nem szükséges hozzá, csak egy ajánlott böngészőt kell telepíteni.
 
 ## Karbantartási terv
 
