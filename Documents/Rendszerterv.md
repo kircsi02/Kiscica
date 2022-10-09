@@ -78,6 +78,15 @@ Backend:
 
 ## Karbantartási terv
 
+Az alkalmazás folyamatos üzemeltetése és karbantartása, mely
+magában foglalja a programhibák elhárítását, a belső igények változása miatti módosításokat, valamint a környezeti feltételek változása miatt
+megfogalmazott program-, illetve állomány módosítási igényeket. Ellenőrizni kell, hogy a jövőben kiadott Android verziókkal kompatibilis-e az alkalmazás. Idő elteltével új kategóriákat kell hozzáadni a játékhoz, hogy fent tartsuk az érdeklődési szintet.
 
+Karbantartás folyamata:
+
+- Corrective Maintenance: A felhasználók által beküldött hibajelentésekben szereplő hibák kijavítása.
+- Adaptive Maintenance: A program naprakészen tartása, finomhangolása.
+- Perfective Maintenance: A szoftver hosszútávú működése érdekében végzett módosítások, mint például új funkciók, teljesítmény és megbízhatóság javítása.
+- Preventive Maintenance: Olyan problémák elhárítása, kijavítása, amelyek még nem tűnnek fontosnak, de később komoly problémákat okozhatnak.
 
 ## Fogalomtár
