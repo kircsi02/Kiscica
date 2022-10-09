@@ -35,7 +35,38 @@ Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár 
 
 ## Követelmények
 
+Funkcionális követelmények:
 
+A program adatbázisban tárolja a kakukktojásokat, kategória szerint elmentve. A felülethez csak belépés után lehet hozzáférni, amihez szükséges regisztrációkor megadni egy felhasználónevet, egy e-mail címet és egy jelszót, amik szintén adatbázisban lesznek eltárolva.
+A kezelő felület webes kialakítású, amellyel kakukktojásokat tud generálni a felhasználó, majd ellenőrzés után újra és újra lefrissíteni azt, amivel újabb megolható kakukktojás válik elérhetővé, mindig más és más kakukktojásos feladattal előállva.
+
+Menüpontok az oldalon:
+
+- Kakukktojás
+- Kijelentkezés
+
+A kijelentkezés menüpontra kattintva a felhasználó kijelentkezik az oldalról, és csak újabb belépést követően tud hozzáférni az oldal tartalmához.
+
+Nem funkcionális követelmények:
+
+- gyors betöltési sebesség
+- könnyen átlátható, letisztult és felhasználóbarát felület
+- optimalizált működés
+
+Törvényi előírások, szabványok:
+
+- GDPR-nak való megfelelés
+- Általános információk
+- Szellemi tulajdon
+- Használat
+- Felelősségi szabályok
+- Technikai követelmények
+- Garancia és kártérítés
+- mmxiii. évi V. törvény
+- Európai Parlament és Tanács 2016. április 27-i (EU) 2016/679 Rendelete
+- mmxi. évi CXII. törvény
+- a szerzői jogról szóló 1999. évi LXXVI. törvény
+- mmi. évi CVIII. törvény
 
 ## Funkcionális terv
 
