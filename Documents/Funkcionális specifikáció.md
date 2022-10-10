@@ -44,7 +44,7 @@ Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár 
 
 ## Képernyő tervek
 
-
+![funkspec_Kepernyotervek](https://user-images.githubusercontent.com/113987404/194958899-0bb6f036-6449-40ad-9398-5ca1d747ab60.jpg)
 
 ## Forgatókönyv
 
