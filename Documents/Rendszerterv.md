@@ -195,4 +195,5 @@ Karbantartás folyamata:
 ## Fogalomtár
 
 database = adatbázis
+
 user = felhasználó
