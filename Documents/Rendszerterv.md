@@ -74,7 +74,45 @@ Törvényi előírások, szabványok:
 
 ## Funkcionális terv
 
+Rendszerszereplők:
 
+- Admin
+- Felhasználó
+
+Rendszerhasználati esetek és lefutásaik:
+
+Admin:
+
+- beléphet a rendszerbe
+- változtathat saját jelszót
+- változtathat saját e-mail címet
+- megnézheti a beérkezett hibajelentéseket
+- játszhat a kakukktojásos feladattal
+- kijelentkezhet
+
+Felhasználó:
+
+- beléphet a rendszerbe
+- változtathat saját jelszót
+- változtathat saját e-mail címet
+- hibajelentést adhat le
+- játszhat a kakukktojásos feladattal
+- kijelentkezhet
+
+Menü-hierarchiák:
+
+- Bejelentkezés
+    - Probléma jelentés
+    - Belépés
+    - Regisztráció
+- Bejelentkezve
+    - Probléma jelentés
+    - Cicás dolgok:
+        - Kakukktojás keresés
+    - Profil:
+        - Jelszó váltás
+        - E-mail váltás
+        - Kijelentkezés
 
 ## Fizikai környezet
 
