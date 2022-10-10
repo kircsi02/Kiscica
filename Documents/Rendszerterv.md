@@ -2,7 +2,11 @@
 
 ## A rendszer célja
 
-
+A rendszer célja, hogy a felhasználó figyelmét lekössük annyi időre, míg a tech supportos kollégánk válaszolni tud a problémájára.
+ Ez sajnos általában több időt vesz igénybe, mint amennyi időre mondjuk zenével vagy bármi hasonlóval le tudnánk kötni a felhasználó figyelmét, így jutottunk a kakukktojás ötletére.
+  Adunk a user-nek egy feladványt, ami öt képből áll, abből kell kiválasztania egyet, ami kilóg a sorból.
+   Ezután a rendszer leellenőrzi, hogy helyesen választott-e a képek közül kakukktojást, majd frissítést követően kaphat egy újabb feladványt, amit szintén megoldhat.
+    Ezzel a cél, hogy minél tovább, ideálisan kb. 10 percre lekössük a felhasználó figyelmét, hogy a kollégánknak legyen ideje a többi user-rel foglalkozni, majd rövides időn belül eljusson az adott problémához, amire éppen várják a választ.
 
 ## Projektterv
 
@@ -70,7 +74,45 @@ Törvényi előírások, szabványok:
 
 ## Funkcionális terv
 
+Rendszerszereplők:
 
+- Admin
+- Felhasználó
+
+Rendszerhasználati esetek és lefutásaik:
+
+Admin:
+
+- beléphet a rendszerbe
+- változtathat saját jelszót
+- változtathat saját e-mail címet
+- megnézheti a beérkezett hibajelentéseket
+- játszhat a kakukktojásos feladattal
+- kijelentkezhet
+
+Felhasználó:
+
+- beléphet a rendszerbe
+- változtathat saját jelszót
+- változtathat saját e-mail címet
+- hibajelentést adhat le
+- játszhat a kakukktojásos feladattal
+- kijelentkezhet
+
+Menü-hierarchiák:
+
+- Bejelentkezés
+    - Probléma jelentés
+    - Belépés
+    - Regisztráció
+- Bejelentkezve
+    - Probléma jelentés
+    - Cicás dolgok:
+        - Kakukktojás keresés
+    - Profil:
+        - Jelszó váltás
+        - E-mail váltás
+        - Kijelentkezés
 
 ## Fizikai környezet
 
@@ -95,7 +137,8 @@ A rendszert a felhasználó egy webes felületen érheti majd el, aminek az elk�
 
 ## Architekturális terv
 
-
+A rendszer megfelelő működéséhez szükségünk lesz egy adatbázis szerverre, jelen esetben Apache-ot használunk erre a célra.
+ A programunkat PHP segítségével fejlesztjük, ami össze lesz kötve egy adatbázissal, amibe mentjük a felhasználók adatait és a kakukktojásokat.
 
 ## Adatbázis terv
 
@@ -103,7 +146,13 @@ A rendszert a felhasználó egy webes felületen érheti majd el, aminek az elk�
 
 ## Implementációs terv
 
+Web application:
 
+A webes felület főként PHP és CSS nyelven fog készülni. A technológiákat amennyire lehet, külön-külön fájlokba szedve rendszerezzük, és úgy kapcsoljuk össze a nagyobb átláthatóság és a többszöri könnyebb felhasználhatóság érdekében. 
+
+Database:
+
+A tervezett szolgáltatást tekintve az adatbázis használata elengedhetetlen, így az adatok rögzítése abban fog megtörténni. Az átláthatóság és a későbbi felhasználhatóság érdekében külön adatbázisban lesznek a felhasználók adatai, a hibajelentések, amik felhasználókhoz vannak kötve, illetve a teljesen különállóan megtervezett kakukktojásos tábla. Ezek implementálásához és használatához az Apache rendszerét választottuk a megbízhatóság fényében.
 
 ## Tesztterv
 
@@ -146,4 +195,5 @@ Karbantartás folyamata:
 ## Fogalomtár
 
 database = adatbázis
+
 user = felhasználó
