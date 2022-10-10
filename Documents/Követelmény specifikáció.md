@@ -65,6 +65,8 @@ A felhasználók üzenetei ezután visszanézhető lenne a kollégáinknak, töb
 Ezzel biztosítva a későbbi segítség nyújtás további felgyorítását, és kényelmességét.
 Amíg egy felhasználó várakozik egy kolléga válaszára, lefoglalnánk pár kakukk tojás feladattal.
 
+![kövspec_Igenyelt_uzleti_folyamatok_modellje_abra](https://user-images.githubusercontent.com/113984906/194935566-f181f8df-cdd5-49fa-8a0d-6f3be302fabe.jpg)
+
 ## Követelménylista
 
 Követelménylista
