@@ -201,3 +201,4 @@ Karbantartás folyamata:
 database = adatbázis
 
 user = felhasználó
+login = Belépés
