@@ -55,4 +55,5 @@ Ha valami problémája van, akkor tud hibajelentést küldeni, vagy bármilyen, 
 ## Fogalomtár
 
 tech support = technikai segítségnyújtást biztosítanak a felhasználók számára
+
 login = Belépés
