@@ -2,7 +2,11 @@
 
 ## A rendszer célja
 
-
+A rendszer célja, hogy a felhasználó figyelmét lekössük annyi időre, míg a tech supportos kollégánk válaszolni tud a problémájára.
+ Ez sajnos általában több időt vesz igénybe, mint amennyi időre mondjuk zenével vagy bármi hasonlóval le tudnánk kötni a felhasználó figyelmét, így jutottunk a kakukktojás ötletére.
+  Adunk a user-nek egy feladványt, ami öt képből áll, abből kell kiválasztania egyet, ami kilóg a sorból.
+   Ezután a rendszer leellenőrzi, hogy helyesen választott-e a képek közül kakukktojást, majd frissítést követően kaphat egy újabb feladványt, amit szintén megoldhat.
+    Ezzel a cél, hogy minél tovább, ideálisan kb. 10 percre lekössük a felhasználó figyelmét, hogy a kollégánknak legyen ideje a többi user-rel foglalkozni, majd rövides időn belül eljusson az adott problémához, amire éppen várják a választ.
 
 ## Projektterv
 
