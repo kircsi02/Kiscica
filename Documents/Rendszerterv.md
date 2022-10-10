@@ -187,6 +187,8 @@ Az alkalmazás folyamatos üzemeltetése és karbantartása, mely
 magában foglalja a programhibák elhárítását, a belső igények változása miatti módosításokat, valamint a környezeti feltételek változása miatt
 megfogalmazott program-, illetve állomány módosítási igényeket. Ellenőrizni kell, hogy a jövőben kiadott Android verziókkal kompatibilis-e az alkalmazás. Idő elteltével új kategóriákat kell hozzáadni a játékhoz, hogy fent tartsuk az érdeklődési szintet.
 
+![rendszerterv_Karbantartási_terv](https://user-images.githubusercontent.com/113984906/194938192-474571f1-04c3-4642-b90f-4296bb13ee16.jpg)
+
 Karbantartás folyamata:
 
 - Corrective Maintenance: A felhasználók által beküldött hibajelentésekben szereplő hibák kijavítása.
