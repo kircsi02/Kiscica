@@ -137,7 +137,8 @@ A rendszert a felhasználó egy webes felületen érheti majd el, aminek az elk�
 
 ## Architekturális terv
 
-
+A rendszer megfelelő működéséhez szükségünk lesz egy adatbázis szerverre, jelen esetben Apache-ot használunk erre a célra.
+ A programunkat PHP segítségével fejlesztjük, ami össze lesz kötve egy adatbázissal, amibe mentjük a felhasználók adatait és a kakukktojásokat.
 
 ## Adatbázis terv
 
