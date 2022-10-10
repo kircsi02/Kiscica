@@ -146,7 +146,13 @@ A rendszer megfelelő működéséhez szükségünk lesz egy adatbázis szerverr
 
 ## Implementációs terv
 
+Web application:
 
+A webes felület főként PHP és CSS nyelven fog készülni. A technológiákat amennyire lehet, külön-külön fájlokba szedve rendszerezzük, és úgy kapcsoljuk össze a nagyobb átláthatóság és a többszöri könnyebb felhasználhatóság érdekében. 
+
+Database:
+
+A tervezett szolgáltatást tekintve az adatbázis használata elengedhetetlen, így az adatok rögzítése abban fog megtörténni. Az átláthatóság és a későbbi felhasználhatóság érdekében külön adatbázisban lesznek a felhasználók adatai, a hibajelentések, amik felhasználókhoz vannak kötve, illetve a teljesen különállóan megtervezett kakukktojásos tábla. Ezek implementálásához és használatához az Apache rendszerét választottuk a megbízhatóság fényében.
 
 ## Tesztterv
 
