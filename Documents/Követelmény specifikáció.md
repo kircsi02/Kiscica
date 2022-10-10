@@ -91,4 +91,5 @@ K06 navigációs menü
 ## Fogalomtár 
 
 tech support = technikai segítségnyújtást biztosítanak a felhasználók számára
+
 login = Belépés
